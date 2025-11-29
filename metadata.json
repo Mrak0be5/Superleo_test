@@ -1,0 +1,8 @@
+{
+  "name": "SuperLeo by Multicastgames",
+  "description": "A creative media hub for generating videos and images, managing libraries, and launching ad campaigns. Interface in Russian.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
